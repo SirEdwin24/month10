@@ -1119,3 +1119,13 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.27-02.31.28:891][549]LogD3D12RHI: Creating RTPSO with 47 shaders (0 cached, 2 new) took 23.49 ms. Compile time 9.42 ms, link time 13.88 ms.
 [2021.10.27-02.31.44:079][954]LogD3D12RHI: Creating RTPSO with 48 shaders (0 cached, 1 new) took 236.32 ms. Compile time 233.18 ms, link time 2.85 ms.
 [2021.10.27-02.31.53:325][367]LogD3D12RHI: Creating RTPSO with 49 shaders (0 cached, 1 new) took 208.97 ms. Compile time 205.82 ms, link time 2.92 ms.
+[2021.10.27-02.32.40:735][410]LogD3D12RHI: Creating RTPSO with 50 shaders (0 cached, 1 new) took 179.89 ms. Compile time 176.48 ms, link time 3.18 ms.
+[2021.10.27-02.32.42:429][480]LogD3D12RHI: Creating RTPSO with 51 shaders (0 cached, 1 new) took 185.17 ms. Compile time 181.78 ms, link time 3.14 ms.
+[2021.10.27-02.32.43:521][530]LogSlate: Took 0.014359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.27-02.32.51:996][894]LogD3D12RHI: Creating RTPSO with 52 shaders (0 cached, 1 new) took 227.22 ms. Compile time 223.41 ms, link time 3.57 ms.
+[2021.10.27-02.33.23:560][ 69]LogD3D12RHI: Creating RTPSO with 53 shaders (0 cached, 1 new) took 308.72 ms. Compile time 304.35 ms, link time 4.11 ms.
+[2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: Tracking 7579 distinct input hashes that result in 5189 distinct outputs (68.47%)
+[2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: RAM used: 26.45 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.23%
+[2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: ================================================
