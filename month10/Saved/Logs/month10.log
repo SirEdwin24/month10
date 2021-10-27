@@ -1180,7 +1180,3 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.27-02.57.54:502][565]LogSavePackage: Moving '../../../../UnrealProjectsGithub/month10/month10/Saved/FirstPersonExampleMapCE9D081B4E1EE16C03CAF4B978166481.tmp' to '../../../../UnrealProjectsGithub/month10/month10/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2021.10.27-02.57.54:547][565]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2021.10.27-02.57.54:547][565]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
-[2021.10.27-02.58.41:451][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
-[2021.10.27-02.58.41:470][ 90]LogSavePackage: Moving '../../../../UnrealProjectsGithub/month10/month10/Saved/FirstPersonExampleMapADEE22B64DC4DA4D0FED809F7F2BC136.tmp' to '../../../../UnrealProjectsGithub/month10/month10/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2021.10.27-02.58.41:509][ 90]AssetCheck: New page: Asset Save: FirstPersonExampleMap
-[2021.10.27-02.58.41:509][ 90]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
