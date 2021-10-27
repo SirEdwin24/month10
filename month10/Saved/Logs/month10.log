@@ -1129,3 +1129,54 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: Tracking 7579 distinct input hashes that result in 5189 distinct outputs (68.47%)
 [2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: RAM used: 26.45 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.23%
 [2021.10.27-02.33.41:386][759]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.36.27:127][176]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.27-02.36.27:184][176]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.EffectType'.'
+[2021.10.27-02.36.31:727][321]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.27-02.36.31:737][321]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.27-02.36.31:737][321]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.10.27-02.36.36:336][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.27-02.36.36:395][555]LogSavePackage: Moving '../../../../UnrealProjectsGithub/month10/month10/Saved/FirstPersonExampleMap17B01462466E911947FD2DB5E2970B4F.tmp' to '../../../../UnrealProjectsGithub/month10/month10/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.27-02.36.36:479][555]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.10.27-02.36.36:479][555]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.27-02.36.42:521][821]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.36.42:521][821]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.36.42:521][821]LogShaderCompilers: Display: Tracking 8469 distinct input hashes that result in 5541 distinct outputs (65.43%)
+[2021.10.27-02.36.42:522][821]LogShaderCompilers: Display: RAM used: 28.60 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.49%
+[2021.10.27-02.36.42:522][821]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.39.43:669][278]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.39.43:669][278]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.39.43:669][278]LogShaderCompilers: Display: Tracking 10139 distinct input hashes that result in 6101 distinct outputs (60.17%)
+[2021.10.27-02.39.43:670][278]LogShaderCompilers: Display: RAM used: 31.58 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.85%
+[2021.10.27-02.39.43:670][278]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.42.44:729][603]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.42.44:729][603]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.42.44:729][603]LogShaderCompilers: Display: Tracking 11589 distinct input hashes that result in 6396 distinct outputs (55.19%)
+[2021.10.27-02.42.44:729][603]LogShaderCompilers: Display: RAM used: 34.14 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.17%
+[2021.10.27-02.42.44:729][603]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.45.45:562][439]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.45.45:562][439]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.45.45:562][439]LogShaderCompilers: Display: Tracking 13139 distinct input hashes that result in 6567 distinct outputs (49.98%)
+[2021.10.27-02.45.45:563][439]LogShaderCompilers: Display: RAM used: 35.31 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.31%
+[2021.10.27-02.45.45:563][439]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.48.45:817][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.48.45:817][639]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.48.45:817][639]LogShaderCompilers: Display: Tracking 14279 distinct input hashes that result in 6788 distinct outputs (47.54%)
+[2021.10.27-02.48.45:817][639]LogShaderCompilers: Display: RAM used: 36.87 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.50%
+[2021.10.27-02.48.45:817][639]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.51.48:733][903]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.51.48:733][903]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.51.48:733][903]LogShaderCompilers: Display: Tracking 15559 distinct input hashes that result in 7288 distinct outputs (46.84%)
+[2021.10.27-02.51.48:734][903]LogShaderCompilers: Display: RAM used: 39.35 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.80%
+[2021.10.27-02.51.48:734][903]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.54.50:823][483]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.27-02.54.50:823][483]LogShaderCompilers: Display: Total job queries 17335, among them cache hits 0 (0.00%)
+[2021.10.27-02.54.50:823][483]LogShaderCompilers: Display: Tracking 16909 distinct input hashes that result in 7828 distinct outputs (46.29%)
+[2021.10.27-02.54.50:824][483]LogShaderCompilers: Display: RAM used: 42.30 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 5.16%
+[2021.10.27-02.54.50:824][483]LogShaderCompilers: Display: ================================================
+[2021.10.27-02.56.57:337][322]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 172.41 ms. Compile time 5.33 ms, link time 167.06 ms.
+[2021.10.27-02.56.57:337][322]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.10.27-02.56.57:338][322]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.10.27-02.57.54:478][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.10.27-02.57.54:502][565]LogSavePackage: Moving '../../../../UnrealProjectsGithub/month10/month10/Saved/FirstPersonExampleMapCE9D081B4E1EE16C03CAF4B978166481.tmp' to '../../../../UnrealProjectsGithub/month10/month10/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.27-02.57.54:547][565]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.10.27-02.57.54:547][565]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
