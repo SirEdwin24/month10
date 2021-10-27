@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+month10/Intermediate/CachedAssetRegistry.bin
+month10/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+month10/Saved/Config/CrashReportClient/UECC-Windows-C2C5290145A90F35843B86964ECAEF84/CrashReportClient.ini
+month10/Saved/Config/WindowsEditor/Engine.ini
+month10/Saved/Logs/month10-backup-2021.10.27-02.12.23.log
+month10/Saved/Logs/month10.log
