@@ -1,6 +1,13 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#Edwin Stuff
+Engine.ini
+month10.log
+EditorPerProjectUserSettings.ini
+month10.uproject
+CachedAssetRegistry.bin
+
 # Compiled Object files
 *.slo
 *.lo
