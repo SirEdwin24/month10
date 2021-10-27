@@ -2,6 +2,7 @@
 .vs/
 
 #Edwin Stuff
+*.log
 Engine.ini
 month10.log
 EditorPerProjectUserSettings.ini
